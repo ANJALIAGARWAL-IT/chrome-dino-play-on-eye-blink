@@ -7,4 +7,5 @@ Shape predictor 68 face landmarks .dat file is required.
 
 😄 Check this gif where my lil brother is having a lot of fun playing this game by just blinking his eyes 
 
-![](https://imgur.com/W1KiZ0n.png)
+![](https://imgur.com/W1KiZ0n.gif)
+
